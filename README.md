@@ -1,5 +1,7 @@
 # Multimedia Recognition App
 
+![Multimedia Recognition App Preview](docs/images/preview.png)
+
 Aplikasi recognition multimedia berbasis **ResNet50** dengan:
 - UI interaktif (Streamlit)
 - API backend (FastAPI)
