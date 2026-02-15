@@ -35,6 +35,9 @@ python -m pip install -r requirements.txt
 python -m streamlit run app.py
 ```
 
+## Demo Online
+- Streamlit App: `https://multimediarecognitionapp.streamlit.app/`
+
 ## Menjalankan FastAPI
 ```bash
 python -m uvicorn api:app --reload --host 0.0.0.0 --port 8011
